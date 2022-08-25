@@ -1,3 +1,5 @@
 Some text for header
-Changes from <msaster> - new changes!!!
+Changes from <first>
+Changes from <msaster>
 
+Text from master: new changes!!!
